@@ -1,4 +1,3 @@
-import './App.css';
 
 import Container from '@mui/material/Container';
 import TableComponent from './TableComponent';
@@ -6,7 +5,7 @@ import TableComponent from './TableComponent';
 
 function App() {
   return (
-    <div >
+    <div>
     <Container maxWidth="md">
        <TableComponent />
        </Container>
